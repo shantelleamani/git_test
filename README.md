@@ -1,0 +1,1 @@
+This is Shantelle's first git project!
